@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>em_Pencarian Layanan Iklan_icon arrow-down-red</name>
+   <tag></tag>
+   <elementGuidId>4a7176bf-fd81-4c4c-97da-d9c371582079</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>em</value>
+      <webElementGuid>3650943b-adfe-40d2-9fcb-ece114a9e3cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon arrow-down-red</value>
+      <webElementGuid>c070975f-3c8d-439c-8ed3-9e7229ee62ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layanan-iklan&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;wrapper-text col-sm-12 mt-5 mb-5&quot;]/form[@id=&quot;views-exposed-form-filtering-layanan-iklan-filtering-layanan-iklan&quot;]/div[@class=&quot;dropdown col-md-12 col-lg-4 col-12&quot;]/div[@class=&quot;dropdown&quot;]/div[@class=&quot;styled-select dropdown-select&quot;]/em[@class=&quot;icon arrow-down-red&quot;]</value>
+      <webElementGuid>abe2dc86-2404-4287-930e-a9b8089f3274</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='views-exposed-form-filtering-layanan-iklan-filtering-layanan-iklan']/div[2]/div/div/em</value>
+      <webElementGuid>88e3cd91-628e-4fd4-a1bd-15993f5b23e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/em</value>
+      <webElementGuid>cb6de704-8ece-43d3-a8e4-5d6a29fc893c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

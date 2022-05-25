@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tanya Lebih Lanjut</name>
+   <tag></tag>
+   <elementGuidId>a97c260d-3903-4dd6-9d02-b567e6f3045c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@type='button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.float-left.btn.btn-danger.w-25.mt-4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>518fe6c3-0394-4b65-b48e-32bdefc968ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/support#send-contact-us</value>
+      <webElementGuid>32219c60-dc98-4b91-8d21-32af770fd3df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>float-left btn btn-danger w-25 mt-4</value>
+      <webElementGuid>b710c756-6412-487a-bd42-805c2445b8c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>34c0c1bb-68b8-4a26-ad75-5422fefa4fc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Tanya Lebih Lanjut</value>
+      <webElementGuid>e61a63fe-f794-4a28-bb06-93e699efb77e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;faq-section&quot;)/div[@class=&quot;container desktop-display&quot;]/div[@class=&quot;row inner col-md-9 offset-md-3 mx-auto&quot;]/a[@class=&quot;float-left btn btn-danger w-25 mt-4&quot;]</value>
+      <webElementGuid>20f62c4a-de7b-414d-92b4-81947f8dba36</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@type='button']</value>
+      <webElementGuid>c0d123da-8ab7-48fc-954c-cd4046bf334a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='faq-section']/div[2]/div[2]/a</value>
+      <webElementGuid>232e36d8-11e3-45cd-bbae-7cc42c5e2660</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Tanya Lebih Lanjut')])[2]</value>
+      <webElementGuid>4993e7e6-851d-4744-95ef-dd9da46affe6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='https://linktr.ee/TelkomselMyAds'])[2]/following::a[1]</value>
+      <webElementGuid>9598a5c9-91c0-4ba5-9708-4e48241baec4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Telkomsel MyAds'])[4]/following::a[2]</value>
+      <webElementGuid>d8e96738-4ee6-41c0-a0d4-b70240cba035</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produk'])[1]/preceding::a[1]</value>
+      <webElementGuid>b725f28f-7d21-41f1-a326-96ea1fe4d6d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TAdeX'])[2]/preceding::a[1]</value>
+      <webElementGuid>544b59e3-5fba-47b0-9f8c-a182ce1e79de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/support#send-contact-us')])[2]</value>
+      <webElementGuid>eb035c90-532b-4acf-8ae9-4808c1e60601</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/a</value>
+      <webElementGuid>f2a3f189-d582-4eda-9bdf-b1c870843c85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/support#send-contact-us' and @type = 'button' and (text() = ' Tanya Lebih Lanjut' or . = ' Tanya Lebih Lanjut')]</value>
+      <webElementGuid>aabeed91-4ed7-445b-abe5-f07cbe8ba53a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

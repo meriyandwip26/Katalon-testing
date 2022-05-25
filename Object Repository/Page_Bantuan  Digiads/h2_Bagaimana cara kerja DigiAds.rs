@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Bagaimana cara kerja DigiAds</name>
+   <tag></tag>
+   <elementGuidId>bfb77f0a-bdee-448f-b110-f62964271650</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='heading-1-Tqu-exk0NFKKz77c3VoC']/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.text-left.collapsed</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>f851029a-9cfb-42d5-b425-17062fdd9889</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-left collapsed</value>
+      <webElementGuid>db78f086-bc0e-4a3e-9f4e-de6dee2d2b78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>collapse</value>
+      <webElementGuid>717a58f9-4b11-4d9b-b0e5-c6c7451d1e10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#collapse-1-Tqu-exk0NFKKz77c3VoC</value>
+      <webElementGuid>3e41eb65-5e53-493a-b415-74cd0178cc72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>75eed9fe-243f-433d-8a59-e23bc1ccd7a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-controls</name>
+      <type>Main</type>
+      <value>collapse-1-Tqu-exk0NFKKz77c3VoC</value>
+      <webElementGuid>bca7829d-a19a-45cd-b442-b70b33477e6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Bagaimana cara kerja DigiAds?
+</value>
+      <webElementGuid>bf84147a-db20-4f64-b237-592fcda22cdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;heading-1-Tqu-exk0NFKKz77c3VoC&quot;)/h2[@class=&quot;text-left collapsed&quot;]</value>
+      <webElementGuid>1a79855d-a953-4cdd-87df-612187e4f65c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='heading-1-Tqu-exk0NFKKz77c3VoC']/h2</value>
+      <webElementGuid>1ef49794-beb5-4bfa-aa6f-82f7436fe6c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ'])[2]/following::h2[1]</value>
+      <webElementGuid>3447b9b8-0410-40b0-a70a-0d84db60edee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanya Lebih Lanjut'])[1]/following::h2[1]</value>
+      <webElementGuid>3560422d-4e6d-47e0-ac0f-a34cc290e126</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apa saja solusi iklan yang ditawarkan oleh DigiAds?'])[2]/preceding::h2[1]</value>
+      <webElementGuid>8bb26156-7250-4ec7-94e2-941c49ec3fac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Messaging'])[4]/preceding::h2[2]</value>
+      <webElementGuid>fadbf07f-f428-4933-b3e7-b3a611e04bd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/h2</value>
+      <webElementGuid>ee18854b-f93e-443a-8c3d-d7bc7125e3c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = '
+Bagaimana cara kerja DigiAds?
+' or . = '
+Bagaimana cara kerja DigiAds?
+')]</value>
+      <webElementGuid>e4983bc3-2806-49b5-bee4-dd5ff42f4914</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

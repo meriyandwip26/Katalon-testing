@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_See All</name>
+   <tag></tag>
+   <elementGuidId>197139b8-3638-43d3-933f-48e8ee0a6a60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='block-views-block-insight-id-pager-insight-id-pager']/div/div/div/div[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.js-view-dom-id-faf4acc9687c11b7255ce2abad4b75938e2eb27efff06ad837ed95483e0ab65a > div.more-link > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>34c2f39a-0626-4801-a917-84deb981891c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/insight-id</value>
+      <webElementGuid>42983a1a-ebd8-4b93-acff-4d15d0a5d886</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>See All</value>
+      <webElementGuid>e1e7436e-7b96-49d3-b23d-74144250d283</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block-views-block-insight-id-pager-insight-id-pager&quot;)/div[@class=&quot;content&quot;]/div[1]/div[@class=&quot;js-view-dom-id-faf4acc9687c11b7255ce2abad4b75938e2eb27efff06ad837ed95483e0ab65a&quot;]/div[@class=&quot;more-link&quot;]/a[1]</value>
+      <webElementGuid>e89e6b2a-49f4-4170-9cf0-d7e2f3baa0c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='block-views-block-insight-id-pager-insight-id-pager']/div/div/div/div[3]/a</value>
+      <webElementGuid>5091d87f-10c5-4a1b-baff-bab7d842c1c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'See All')])[2]</value>
+      <webElementGuid>def47368-010b-44a1-8773-f59df7123f37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last page'])[2]/following::a[1]</value>
+      <webElementGuid>ded03bcc-8ed4-44e6-ad79-ec767abb56a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next page'])[2]/following::a[2]</value>
+      <webElementGuid>7e313f05-e793-400a-8764-ee3d83de3f44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Case Study'])[2]/preceding::a[1]</value>
+      <webElementGuid>ab75ac93-4995-4139-9847-df39bbe5fd2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Case Study'])[3]/preceding::a[1]</value>
+      <webElementGuid>c621a41f-8543-4c1b-a1d3-68e924437481</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/insight-id')])[2]</value>
+      <webElementGuid>ca29edbb-67c6-4ee2-b3d4-f86e31b4e788</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[3]/a</value>
+      <webElementGuid>37c70228-b97d-4e57-b74d-d7aa5c260d06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/insight-id' and (text() = 'See All' or . = 'See All')]</value>
+      <webElementGuid>34586c40-7551-4ccb-b513-a4a09f1f0a84</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

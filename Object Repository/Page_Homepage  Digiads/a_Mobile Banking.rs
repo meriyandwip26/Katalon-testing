@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Mobile Banking</name>
+   <tag></tag>
+   <elementGuidId>020703a6-4cb4-458e-9df0-0dfc311e176a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='solusi']/div/div/div/div/div/div[4]/span/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>882fd6f0-01cb-4e68-80ba-a90377f202d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/solution/mobile-banking</value>
+      <webElementGuid>9de79844-2b39-41f5-afa0-97c874baec44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mobile Banking</value>
+      <webElementGuid>3114ec1a-7861-49a7-aa6f-5937061afdc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-header&quot;)/div[@class=&quot;container-fluid p-0 desktop-display&quot;]/div[@id=&quot;window&quot;]/nav[@class=&quot;navbar navbar-expand-md navbar-custom&quot;]/div[@id=&quot;navbarSupportedContent&quot;]/ul[@class=&quot;clearfix navbar-nav d-flex align-items-center h-100&quot;]/li[@id=&quot;solusi&quot;]/div[@class=&quot;dropdown-menu rounded-0 bg-light w-100 border-0 m-0 p-0 shadow-sm show&quot;]/div[@class=&quot;container-fluid bg-light&quot;]/div[@class=&quot;row w-100&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;col-12 wrap-content&quot;]/div[@class=&quot;col-sm-3&quot;]/span[@class=&quot;title&quot;]/a[1]</value>
+      <webElementGuid>bfb7ef42-9e00-4d6e-9a1e-f861c51b65eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='solusi']/div/div/div/div/div/div[4]/span/a</value>
+      <webElementGuid>7d937bfc-8fb0-4295-8b30-f6436f6d02c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Mobile Banking')]</value>
+      <webElementGuid>8593aa42-4ee3-4c69-b30b-0746539ec862</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Call Forward Status'])[1]/following::a[1]</value>
+      <webElementGuid>903846a2-51d1-4894-b278-67cb597f0e05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Location Verification'])[1]/following::a[2]</value>
+      <webElementGuid>de59f7cc-cd6a-490c-9c4b-badf97fd84d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SMS/USSD Banking'])[1]/preceding::a[1]</value>
+      <webElementGuid>6d04970c-80b5-4438-a117-f8777f980188</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REDI'])[1]/preceding::a[2]</value>
+      <webElementGuid>61d3c56f-985e-4ea2-b219-a816f468d30d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mobile Banking']/parent::*</value>
+      <webElementGuid>711063f9-a7bf-4f71-912e-887ecd07e3ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/solution/mobile-banking')]</value>
+      <webElementGuid>00f1f9c2-b075-4a3e-bc0d-2e48ff5268bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/span/a</value>
+      <webElementGuid>9062ed4e-9fa9-4ad8-80d3-1ff0cb439ffe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/solution/mobile-banking' and (text() = 'Mobile Banking' or . = 'Mobile Banking')]</value>
+      <webElementGuid>8e11068e-b4f8-48ab-b439-4ce9021a6921</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Next</name>
+   <tag></tag>
+   <elementGuidId>f6be84e6-a4db-480e-9fd5-b6945d6f40ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='carouselPeekEdges-Testimonial-testimonial']/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.carousel-control-next</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>08199ed1-ad60-4d02-b9d4-baafa91b722c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>carousel-control-next</value>
+      <webElementGuid>acd65408-7f1b-4785-9a89-1446a70947ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#carouselPeekEdges-Testimonial-testimonial</value>
+      <webElementGuid>ca8848df-682b-4301-9a32-9baa91774b77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b4468c4c-e798-400d-a028-3ab41b94ef10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-slide</name>
+      <type>Main</type>
+      <value>next</value>
+      <webElementGuid>46d5f6c6-3b11-4d54-bbef-221f0274a367</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+Next
+</value>
+      <webElementGuid>2f382316-b039-4d0e-a9d6-0b9e4e8548f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;carouselPeekEdges-Testimonial-testimonial&quot;)/a[@class=&quot;carousel-control-next&quot;]</value>
+      <webElementGuid>aa472f7e-cb55-4f56-b231-61a55ea27e74</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='carouselPeekEdges-Testimonial-testimonial']/a[2]</value>
+      <webElementGuid>3b626f72-bee4-42aa-a747-1d241d7bd841</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/following::a[1]</value>
+      <webElementGuid>10113e1f-cca5-4f19-9264-d05f2f494e63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Testimonial'])[3]/following::a[2]</value>
+      <webElementGuid>75759860-4347-4565-9de2-f8ffe0e0b5d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produk'])[1]/preceding::a[1]</value>
+      <webElementGuid>9ba1ef01-46e8-4b1c-a792-d6063be3b7ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#carouselPeekEdges-Testimonial-testimonial')])[2]</value>
+      <webElementGuid>0a58d90b-67d5-41e8-915d-48c8e16626af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/a[2]</value>
+      <webElementGuid>ba2baf61-db07-4d91-bdd8-914d1874f228</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#carouselPeekEdges-Testimonial-testimonial' and (text() = '
+
+Next
+' or . = '
+
+Next
+')]</value>
+      <webElementGuid>7d59da1d-e1a5-4df9-bf95-2313dd37e1ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

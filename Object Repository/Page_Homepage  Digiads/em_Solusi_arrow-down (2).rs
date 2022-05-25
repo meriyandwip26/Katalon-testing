@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>em_Solusi_arrow-down (2)</name>
+   <tag></tag>
+   <elementGuidId>2835d6cb-3dd0-4150-adad-2c64d8f74d53</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='navbarDropdown']/em)[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#solusi > #navbarDropdown > em.arrow-down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>em</value>
+      <webElementGuid>fd2701f2-12b8-4dab-978e-e085100456c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>arrow-down</value>
+      <webElementGuid>4a81c10d-ed63-4a7c-aba8-fd9fee9430bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-header&quot;)/div[@class=&quot;container-fluid p-0 desktop-display&quot;]/div[@id=&quot;window&quot;]/nav[@class=&quot;navbar navbar-expand-md navbar-custom&quot;]/div[@id=&quot;navbarSupportedContent&quot;]/ul[@class=&quot;clearfix navbar-nav d-flex align-items-center h-100&quot;]/li[@id=&quot;solusi&quot;]/a[@id=&quot;navbarDropdown&quot;]/em[@class=&quot;arrow-down&quot;]</value>
+      <webElementGuid>0673ddf6-4e13-4dc9-8339-dc458099acd4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//a[@id='navbarDropdown']/em)[2]</value>
+      <webElementGuid>51d95e77-c662-4adc-9577-56df33608b7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a[2]/em</value>
+      <webElementGuid>ba81148e-4f28-4d8a-b6a1-bd118ecef308</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

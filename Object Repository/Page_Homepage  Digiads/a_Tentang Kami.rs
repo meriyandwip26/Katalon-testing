@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tentang Kami</name>
+   <tag></tag>
+   <elementGuidId>633749e5-3245-47b1-acab-9a5e8483555b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='nav'])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>491bb846-4bdb-4709-bef6-2bb879090c7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>nav</value>
+      <webElementGuid>40a86a6f-cadb-4a71-b737-594763135550</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav</value>
+      <webElementGuid>f985ebe0-72dc-4aef-a383-08f1003a5498</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/about-us</value>
+      <webElementGuid>0796f96f-d765-4e44-8027-73fccabf28d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tentang Kami</value>
+      <webElementGuid>99476c8e-7183-494f-b3a3-e566f5320717</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-header&quot;)/div[@class=&quot;container-fluid p-0 desktop-display&quot;]/div[@id=&quot;window&quot;]/nav[@class=&quot;navbar navbar-expand-md navbar-custom&quot;]/div[@id=&quot;navbarSupportedContent&quot;]/ul[@class=&quot;clearfix navbar-nav d-flex align-items-center h-100&quot;]/li[@class=&quot;nav-item&quot;]/a[@id=&quot;nav&quot;]</value>
+      <webElementGuid>0654d61b-09ce-4077-a027-d8b70e0ac828</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@id='nav'])[4]</value>
+      <webElementGuid>645a55df-8327-46c4-ad19-a2b1f445daeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarSupportedContent']/ul/li[4]/a</value>
+      <webElementGuid>0bb7ef18-f435-46a2-bda3-b795b950061b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Tentang Kami')]</value>
+      <webElementGuid>9599209a-9026-44aa-9bee-f301e33cb329</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Insight'])[1]/following::a[1]</value>
+      <webElementGuid>a7a6ebae-afe2-4f66-bcf2-31058c58b75f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REDI'])[1]/following::a[2]</value>
+      <webElementGuid>d945f126-db8b-437f-b522-090eecfdf327</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bantuan'])[1]/preceding::a[1]</value>
+      <webElementGuid>1733979c-2d5f-42e4-944b-e2fa3b2ff298</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='search'])[1]/preceding::a[2]</value>
+      <webElementGuid>aba2c720-f3f5-4f0f-9e79-33a6487ebcfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tentang Kami']/parent::*</value>
+      <webElementGuid>b68c1ec4-73af-4fd9-9e82-619bb5f4e3b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/about-us')]</value>
+      <webElementGuid>3ae16a16-f8e0-4b31-adbe-021491ae95cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a</value>
+      <webElementGuid>5f135058-4c4f-46b3-9c80-96dcd962f8e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'nav' and @href = '/about-us' and (text() = 'Tentang Kami' or . = 'Tentang Kami')]</value>
+      <webElementGuid>28683082-9018-413a-a2bb-d63299833d6f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

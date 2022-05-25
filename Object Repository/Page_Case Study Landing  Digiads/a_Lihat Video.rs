@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Lihat Video</name>
+   <tag></tag>
+   <elementGuidId>82a719f8-43d5-49aa-a00f-a7a731a243d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='block-views-block-all-case-study-all-case-study']/div/div/div/div[2]/div[2]/div/div[2]/div[2]/div[2]/a)[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>section.wrapper-card-case-study.wrapper.wrapper-case-study-card.bg-light.text-center.align-items-center.d-none.d-lg-block.d-xl-none.d-none.d-md-block.d-lg-none.d-none.d-xl-block > div.container > div > div > #block-views-block-all-case-study-all-case-study > div.content > div > div.js-view-dom-id-091c46646620994b670ee5a0923c89eba6433e70896d961683853ef1b190e972 > div.row.inner.inner-case-study.mb-5.active.col-md-11.offset-md-3.page.desktop-display > div.col-lg-4.col-12.mb-4.aos-animate.desktop-display.aos-init > div.card.cardItems > div.card-block > div.wrapper-bottom > div.brands.col-6.p-0.text-right > a.lihat-video</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>13d93349-ada9-4af8-ba69-253b6630796e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#modalVideo0</value>
+      <webElementGuid>3c2e5f6c-8971-44b8-aaaa-37426e5c83d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lihat-video</value>
+      <webElementGuid>48582a94-a0fd-468a-97b0-54bd2ba5eca4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>6cf24034-77e1-443d-a632-ce2b60da2f44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lihat Video</value>
+      <webElementGuid>07c8c517-2e44-47c8-91c1-d05fee282817</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block-digiads-content&quot;)/div[@class=&quot;content&quot;]/article[@class=&quot;node node--type-page node--view-mode-full clearfix&quot;]/div[@class=&quot;node__content clearfix&quot;]/div[1]/div[2]/section[@class=&quot;wrapper-card-case-study wrapper wrapper-case-study-card bg-light text-center align-items-center d-none d-lg-block d-xl-none d-none d-md-block d-lg-none d-none d-xl-block&quot;]/div[@class=&quot;container&quot;]/div[1]/div[1]/div[@id=&quot;block-views-block-all-case-study-all-case-study&quot;]/div[@class=&quot;content&quot;]/div[1]/div[@class=&quot;js-view-dom-id-091c46646620994b670ee5a0923c89eba6433e70896d961683853ef1b190e972&quot;]/div[@class=&quot;row inner inner-case-study mb-5 active col-md-11 offset-md-3 page desktop-display&quot;]/div[@class=&quot;col-lg-4 col-12 mb-4 aos-animate desktop-display aos-init&quot;]/div[@class=&quot;card cardItems&quot;]/div[@class=&quot;card-block&quot;]/div[@class=&quot;wrapper-bottom&quot;]/div[@class=&quot;brands col-6 p-0 text-right&quot;]/a[@class=&quot;lihat-video&quot;]</value>
+      <webElementGuid>21ea1bbd-b346-4955-b9d3-d8131f9d9890</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='block-views-block-all-case-study-all-case-study']/div/div/div/div[2]/div[2]/div/div[2]/div[2]/div[2]/a)[2]</value>
+      <webElementGuid>a3e61c5f-e5b8-4870-9526-9339d907082b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Lihat Video')])[13]</value>
+      <webElementGuid>36130336-bae2-4a38-a402-7d02b03e27a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download PDF'])[13]/following::a[1]</value>
+      <webElementGuid>82217c6d-2138-4839-b74d-3ebbddec9e69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Case Study'])[28]/following::a[1]</value>
+      <webElementGuid>f70df20f-516e-4f47-a971-198aee8c202e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Case Study'])[29]/preceding::a[1]</value>
+      <webElementGuid>0a0e3e52-d190-4d10-b070-2457c7fb4de4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Case Study'])[30]/preceding::a[1]</value>
+      <webElementGuid>aaf8fbc9-f53b-4cb9-b0b7-13ade94c229c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#modalVideo0')])[4]</value>
+      <webElementGuid>7fc99ced-9d2c-4573-87c5-0771e964efb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/div/div/div/div/div/div/div[2]/div[2]/div/div[2]/div[2]/div[2]/a</value>
+      <webElementGuid>93c4904e-1b28-45d9-8025-dc9ae3d1f470</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#modalVideo0' and (text() = 'Lihat Video' or . = 'Lihat Video')]</value>
+      <webElementGuid>5d5ac118-649d-4b18-abdb-e4389e836b79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

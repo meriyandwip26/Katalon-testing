@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Pelajari Produk (1)</name>
+   <tag></tag>
+   <elementGuidId>d7e3d8d7-b821-46b3-9e24-8dc11e2ca4b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='marketing-A_HoujV1Dz99LUB7BL96']/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-danger.w-50.pull-right</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>de3b1c34-3271-4195-9fbb-d7dc24702ef9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>c6d5d74d-539f-4230-873a-6b14960b4911</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-danger w-50 pull-right</value>
+      <webElementGuid>f8db617b-ccd3-4d83-91aa-f3f8a9c54490</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value> /solution/marketing-intelligence </value>
+      <webElementGuid>489d6dad-96f3-4041-b8fe-1934f9f36fb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Pelajari Produk</value>
+      <webElementGuid>d0616c3b-5955-455a-a9d4-1e17ce952138</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;marketing-A_HoujV1Dz99LUB7BL96&quot;)/div[@class=&quot;col-lg-5 mt-4 aos-init aos-animate&quot;]/div[1]/a[@class=&quot;btn btn-danger w-50 pull-right&quot;]</value>
+      <webElementGuid>116a6767-1a13-47e6-8da2-2117a7ac7ecc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='marketing-A_HoujV1Dz99LUB7BL96']/div/div/a</value>
+      <webElementGuid>f1dffb40-afbb-469f-83ee-b17c24ac494a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Pelajari Produk')])[5]</value>
+      <webElementGuid>46dbd32e-0bc6-4526-946f-dcfed6dda4bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='insight dan solusi'])[2]/following::a[1]</value>
+      <webElementGuid>70294ae6-6d4a-4ac5-8be2-c5d66f77bf81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marketing Intelligence'])[3]/following::a[1]</value>
+      <webElementGuid>68e48d5d-be70-45a9-81c7-ddac3b49a308</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Digital Advertising'])[4]/preceding::a[1]</value>
+      <webElementGuid>23189c1b-e4c5-41d1-9a29-48b8559373d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='luas dan tepat sasaran'])[2]/preceding::a[1]</value>
+      <webElementGuid>b29b77b4-190a-4a8c-b165-9249996711d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, ' /solution/marketing-intelligence ')]</value>
+      <webElementGuid>9fb175c1-e930-4057-b39a-ca48401f7dd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/div/div/div/a</value>
+      <webElementGuid>d24fbe42-b48e-463d-8f3a-669b613417b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = ' /solution/marketing-intelligence ' and (text() = ' Pelajari Produk' or . = ' Pelajari Produk')]</value>
+      <webElementGuid>02365485-b325-442a-a1b5-c5a4eb437132</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

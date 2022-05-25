@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Roaming Status</name>
+   <tag></tag>
+   <elementGuidId>ce0606be-3e45-447b-ad32-5954d4c46427</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='solusi']/div/div/div/div/div/div[3]/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fcf6dc52-67c8-4013-8db6-2f66dd6767f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/solution/api#roaming-status</value>
+      <webElementGuid>5ebebcd2-68ab-4e23-86e1-82db42999b3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Roaming Status</value>
+      <webElementGuid>01496131-2199-407a-84f0-2671cbe80aff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-header&quot;)/div[@class=&quot;container-fluid p-0 desktop-display&quot;]/div[@id=&quot;window&quot;]/nav[@class=&quot;navbar navbar-expand-md navbar-custom&quot;]/div[@id=&quot;navbarSupportedContent&quot;]/ul[@class=&quot;clearfix navbar-nav d-flex align-items-center h-100&quot;]/li[@id=&quot;solusi&quot;]/div[@class=&quot;dropdown-menu rounded-0 bg-light w-100 border-0 m-0 p-0 shadow-sm show&quot;]/div[@class=&quot;container-fluid bg-light&quot;]/div[@class=&quot;row w-100&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;col-12 wrap-content&quot;]/div[@class=&quot;col-sm-3&quot;]/ul[@class=&quot;mt-4&quot;]/li[2]/a[1]</value>
+      <webElementGuid>de93b91d-cd16-4317-8910-9c704dd36435</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='solusi']/div/div/div/div/div/div[3]/ul/li[2]/a</value>
+      <webElementGuid>c8679cda-70d1-4b3d-a5bb-545dd2d49dac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Roaming Status')]</value>
+      <webElementGuid>cce9a0cc-bc4c-4451-8237-b9a68f9cd835</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active Status'])[1]/following::a[1]</value>
+      <webElementGuid>b775a8fe-af53-4354-b455-e0e4f858db30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='API'])[1]/following::a[2]</value>
+      <webElementGuid>4e44d930-3893-4528-b783-bf0219816082</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Location Verification'])[1]/preceding::a[1]</value>
+      <webElementGuid>0801d864-7ba9-4491-875f-d413d28d4d63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Call Forward Status'])[1]/preceding::a[2]</value>
+      <webElementGuid>c673a277-5dd4-42ac-bf64-d3f439267c67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Roaming Status']/parent::*</value>
+      <webElementGuid>dfcc1c85-37c8-46b2-96b6-c35732ed9482</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/solution/api#roaming-status')]</value>
+      <webElementGuid>ce059a76-584c-4c1e-8777-7f43defa9dfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li[2]/a</value>
+      <webElementGuid>418061f9-02e5-435e-92c0-d1872be59e89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/solution/api#roaming-status' and (text() = 'Roaming Status' or . = 'Roaming Status')]</value>
+      <webElementGuid>2af7808f-29f9-4519-bb0f-96bd96f27b07</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

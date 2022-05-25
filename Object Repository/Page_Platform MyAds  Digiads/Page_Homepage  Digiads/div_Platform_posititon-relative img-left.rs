@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Platform_posititon-relative img-left</name>
+   <tag></tag>
+   <elementGuidId>ee15713d-0da8-41e2-a9a2-f8e3b9625d74</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='nav']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.posititon-relative.img-left</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0765308e-8a52-4d7f-9125-77e5f6f359a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>posititon-relative img-left</value>
+      <webElementGuid>208215be-fb88-41fd-9a1a-3ca3486d0385</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-header&quot;)/div[@class=&quot;container-fluid p-0 desktop-display&quot;]/div[@id=&quot;window&quot;]/nav[@class=&quot;navbar navbar-expand-md navbar-custom&quot;]/div[@id=&quot;navbarSupportedContent&quot;]/ul[@class=&quot;clearfix navbar-nav d-flex align-items-center h-100&quot;]/li[@id=&quot;platform&quot;]/div[@class=&quot;dropdown-menu rounded-0 bg-light w-100 border-0 m-0 p-0 shadow-sm show&quot;]/div[@class=&quot;container-fluid d-block&quot;]/div[@class=&quot;row&quot;]/a[@id=&quot;nav&quot;]/div[@class=&quot;posititon-relative img-left&quot;]</value>
+      <webElementGuid>b32e74f7-bf31-40ae-af79-6d9ba5109873</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='nav']/div</value>
+      <webElementGuid>23ac80c5-22aa-4aad-9b3a-ea8df6d6f633</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Platform'])[1]/following::div[4]</value>
+      <webElementGuid>2c49036d-6e9c-4526-a5ae-d80e1b529c8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Solusi'])[1]/preceding::div[6]</value>
+      <webElementGuid>193512aa-7f84-45ba-8888-189df2847fb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marketing Intelligence'])[1]/preceding::div[6]</value>
+      <webElementGuid>27ce7646-8319-4b23-a1fd-b55e1e58c87b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>1ac2b532-7a90-45fa-b0ac-a294edd7f6b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

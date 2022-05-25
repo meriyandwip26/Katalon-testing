@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Beriklan Sekarang_fa fa-angle-left (2)</name>
+   <tag></tag>
+   <elementGuidId>cc3c0865-d41c-46e8-af8b-6a225b1e8cc5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='block-digiads-content']/div/article/div/div/div/div[2]/div[2]/div/div/button[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>4734171d-4deb-47ef-bf6c-336eedd3ef04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-angle-left</value>
+      <webElementGuid>21c6be21-4755-41ab-a994-7899eb77b55f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>3ed0e0b8-68e4-4766-84bb-8d230bc4e289</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block-digiads-content&quot;)/div[@class=&quot;content&quot;]/article[@class=&quot;node node--type-page node--view-mode-full clearfix&quot;]/div[@class=&quot;node__content clearfix&quot;]/div[1]/div[1]/div[@class=&quot;container-fluid  p-0 desktop-display&quot;]/div[@class=&quot;owl-theme&quot;]/div[@class=&quot;owl-controls&quot;]/div[@class=&quot;custom-nav owl-nav&quot;]/button[@class=&quot;owl-prev&quot;]/i[@class=&quot;fa fa-angle-left&quot;]</value>
+      <webElementGuid>f61dbf72-70f2-4f3c-bdd5-8b413c5e2c5d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='block-digiads-content']/div/article/div/div/div/div[2]/div[2]/div/div/button[2]/i</value>
+      <webElementGuid>ab108348-a37d-49a6-8cd8-17a33f7e7927</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/i</value>
+      <webElementGuid>4decaac0-7ebb-40d5-a226-4f35457b41b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

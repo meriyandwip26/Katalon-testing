@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Digital Advertising</name>
+   <tag></tag>
+   <elementGuidId>7f2e5f2f-a6e9-46ef-8138-5700038abb69</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='solusi']/div/div/div/div/div/div[2]/span/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0d49bcda-3156-4b56-9ef9-2aa14add8dcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/solution/digital-adv</value>
+      <webElementGuid>0dbb4ce9-f666-4960-9f96-5266b5c4da4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Digital Advertising</value>
+      <webElementGuid>589ab1c3-50dc-4a34-96e3-80c267a4b053</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-header&quot;)/div[@class=&quot;container-fluid p-0 desktop-display&quot;]/div[@id=&quot;window&quot;]/nav[@class=&quot;navbar navbar-expand-md navbar-custom&quot;]/div[@id=&quot;navbarSupportedContent&quot;]/ul[@class=&quot;clearfix navbar-nav d-flex align-items-center h-100&quot;]/li[@id=&quot;solusi&quot;]/div[@class=&quot;dropdown-menu rounded-0 bg-light w-100 border-0 m-0 p-0 shadow-sm show&quot;]/div[@class=&quot;container-fluid bg-light&quot;]/div[@class=&quot;row w-100&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;col-12 wrap-content&quot;]/div[@class=&quot;col-sm-3&quot;]/span[@class=&quot;title&quot;]/a[1]</value>
+      <webElementGuid>9d4b1e61-05b6-4f74-beed-412d51840d27</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='solusi']/div/div/div/div/div/div[2]/span/a</value>
+      <webElementGuid>3a09c061-3321-4997-9b7a-848af3b59242</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Digital Advertising')]</value>
+      <webElementGuid>06193a9b-c05e-4ca7-93ac-2c007c634427</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lifestyle Insight'])[1]/following::a[1]</value>
+      <webElementGuid>29beb18d-9bd3-4976-aaac-14c2c9363817</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobility Insight'])[1]/following::a[2]</value>
+      <webElementGuid>072a7fb8-82be-4b9f-837d-dfe90bd74bba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Messaging'])[1]/preceding::a[1]</value>
+      <webElementGuid>09aa3733-ea91-456c-8ff7-e62093dd4c3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Display'])[1]/preceding::a[2]</value>
+      <webElementGuid>93eeac37-847d-4313-9eaf-d388432e4954</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Digital Advertising']/parent::*</value>
+      <webElementGuid>fe180deb-53a9-45d2-a09c-211ecde3f5b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/solution/digital-adv')]</value>
+      <webElementGuid>dfc73c05-1c1a-4ae6-833e-13870139b2de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span/a</value>
+      <webElementGuid>c614c3aa-0026-4521-bd0b-57db03f7df44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/solution/digital-adv' and (text() = 'Digital Advertising' or . = 'Digital Advertising')]</value>
+      <webElementGuid>b738ac83-9e03-4082-9368-43bfa42df9ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

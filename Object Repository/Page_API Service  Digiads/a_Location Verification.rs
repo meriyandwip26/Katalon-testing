@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Location Verification</name>
+   <tag></tag>
+   <elementGuidId>ec79b7cd-5d82-4565-b96a-e05726ee1ec7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='solusi']/div/div/div/div/div/div[3]/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f588f323-b07e-4b3f-96c3-94b2ecd7d1fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/solution/api#location</value>
+      <webElementGuid>9929363d-81e0-4b73-9bb0-713bf19031c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Location Verification</value>
+      <webElementGuid>9894b498-ab70-45f4-8dab-a5db31fbb6a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-header&quot;)/div[@class=&quot;container-fluid p-0 desktop-display&quot;]/div[@id=&quot;window&quot;]/nav[@class=&quot;navbar navbar-expand-md navbar-custom&quot;]/div[@id=&quot;navbarSupportedContent&quot;]/ul[@class=&quot;clearfix navbar-nav d-flex align-items-center h-100&quot;]/li[@id=&quot;solusi&quot;]/div[@class=&quot;dropdown-menu rounded-0 bg-light w-100 border-0 m-0 p-0 shadow-sm show&quot;]/div[@class=&quot;container-fluid bg-light&quot;]/div[@class=&quot;row w-100&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;col-12 wrap-content&quot;]/div[@class=&quot;col-sm-3&quot;]/ul[@class=&quot;mt-4&quot;]/li[3]/a[1]</value>
+      <webElementGuid>04662be8-83ef-4197-bc05-9edff51418ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='solusi']/div/div/div/div/div/div[3]/ul/li[3]/a</value>
+      <webElementGuid>50d47e7c-18bb-4ea9-b0bd-a32a1405b9f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Location Verification')]</value>
+      <webElementGuid>bd9f598a-212b-43a1-b600-b0cf34b46bd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Roaming Status'])[1]/following::a[1]</value>
+      <webElementGuid>00da7f80-f164-4dd3-adc1-003f2af67fe4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active Status'])[1]/following::a[2]</value>
+      <webElementGuid>7a782f1e-ce79-4e25-9fc0-b2d9ad4e6257</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Call Forward Status'])[1]/preceding::a[1]</value>
+      <webElementGuid>7c3a5ed6-7fac-4b43-8d3d-5dfedceb4135</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile Banking'])[1]/preceding::a[2]</value>
+      <webElementGuid>e4cd2905-8601-49ac-82fa-c208f6e34a5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Location Verification']/parent::*</value>
+      <webElementGuid>34a5fea4-c54c-4545-9c0d-b72801925ac4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/solution/api#location')]</value>
+      <webElementGuid>d0765293-a72c-42b6-9a42-63396a7dcb92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li[3]/a</value>
+      <webElementGuid>6d7041e5-6234-4552-9ffc-fe47716f030f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/solution/api#location' and (text() = 'Location Verification' or . = 'Location Verification')]</value>
+      <webElementGuid>660632e5-bec5-40b3-b22b-453cd778a61b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

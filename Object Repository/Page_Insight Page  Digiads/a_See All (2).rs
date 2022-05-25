@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_See All (2)</name>
+   <tag></tag>
+   <elementGuidId>f818c737-a755-4aeb-8f6d-b7fabb112a03</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='block-views-block-case-study-pager-case-study-pager']/div/div/div/div[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.js-view-dom-id-7222bb7c15489911a9f80ba9245a4d687977214166d078744a28059794ac4558 > div.more-link > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>30b52c69-cabb-4594-b6a2-6fecbb4fd9ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/case-study</value>
+      <webElementGuid>d30a844b-452d-4d6c-91dc-2df17bef5730</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>See All</value>
+      <webElementGuid>73b68e2b-9048-4209-b2dd-15fd4620fcff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block-views-block-case-study-pager-case-study-pager&quot;)/div[@class=&quot;content&quot;]/div[1]/div[@class=&quot;js-view-dom-id-7222bb7c15489911a9f80ba9245a4d687977214166d078744a28059794ac4558&quot;]/div[@class=&quot;more-link&quot;]/a[1]</value>
+      <webElementGuid>75d52e27-1f1a-4d5f-a523-0ea2002e3cd6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='block-views-block-case-study-pager-case-study-pager']/div/div/div/div[4]/a</value>
+      <webElementGuid>e036110e-135b-4ee8-9830-b54400fdb8c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'See All')])[4]</value>
+      <webElementGuid>ac1ef403-2ba7-4409-a923-68010129a66a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last page'])[4]/following::a[1]</value>
+      <webElementGuid>db109d0a-7cbc-4fb5-ba60-19d618f88ade</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next page'])[4]/following::a[2]</value>
+      <webElementGuid>bf9819d4-db4d-480a-883d-95387392e832</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Testimonial'])[2]/preceding::a[1]</value>
+      <webElementGuid>18c5c820-713e-40fd-bbe3-28613219da73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::a[1]</value>
+      <webElementGuid>7dbfc788-982d-4933-9ff1-3ff70baf2926</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/case-study')])[2]</value>
+      <webElementGuid>4f39a3ea-10c8-4300-9802-361bcb31f436</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/div[2]/div/div/div/div/div/div[4]/a</value>
+      <webElementGuid>3698c4bc-d09f-4a24-b24c-cc3d6184be88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/case-study' and (text() = 'See All' or . = 'See All')]</value>
+      <webElementGuid>232bfc5c-4b19-4fc7-bb55-868a37c489d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

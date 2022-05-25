@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_event</name>
+   <tag></tag>
+   <elementGuidId>c5f2faba-c8e9-4ddc-9c3e-c9f04f116bde</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='facet-custom']/div/div/ul/li[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>d66a1c52-973e-4faa-b786-25efe79545d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>facet-item</value>
+      <webElementGuid>8d040e32-3802-49ef-b682-a08236ae0615</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>event
+</value>
+      <webElementGuid>ec3e1939-7dda-456f-8eac-e63c8fb42570</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;facet-custom&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1&quot;]/ul[@class=&quot;facet-inactive js-facets-links nav nav-tabs item-list__links&quot;]/li[@class=&quot;facet-item&quot;]</value>
+      <webElementGuid>c4b6006b-030a-472e-9834-4dbe705c4489</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='facet-custom']/div/div/ul/li[2]</value>
+      <webElementGuid>a7befae5-f572-4154-9ec9-4218a0035721</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[1]/following::li[1]</value>
+      <webElementGuid>7a14e3a5-be26-4f79-9f47-52608427eb73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(-)'])[1]/following::li[1]</value>
+      <webElementGuid>8fe6c586-c165-446f-8c27-7ecc769f9a81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='berita'])[1]/preceding::li[1]</value>
+      <webElementGuid>f33338a5-fd15-492f-84d1-8b128bf745f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/div/div/div/ul/li[2]</value>
+      <webElementGuid>4e287d90-0903-4859-9959-04b9625b8d86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'event
+' or . = 'event
+')]</value>
+      <webElementGuid>1b10dba6-3c86-4c22-9db2-f20c3d4fa651</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

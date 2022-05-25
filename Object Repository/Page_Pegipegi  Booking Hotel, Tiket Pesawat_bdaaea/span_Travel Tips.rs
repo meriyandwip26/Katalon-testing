@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Travel Tips</name>
+   <tag></tag>
+   <elementGuidId>764da1d6-77e6-4c58-aa97-f6f650d983bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//html[@id='index-page']/body/div/div[2]/div[2]/div/ul/li[6]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f8908c49-682e-4211-b50d-28ee28f0ff85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Travel Tips</value>
+      <webElementGuid>fec5cd3d-1b26-4def-87f2-76e9df5d07ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;index-page&quot;)/body[1]/div[@class=&quot;outer-wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;menuHeader-wrapper&quot;]/div[@class=&quot;menuHeader&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[6]/a[1]/span[1]</value>
+      <webElementGuid>a645cd10-506f-447a-a401-f301d8062292</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='index-page']/body/div/div[2]/div[2]/div/ul/li[6]/a/span</value>
+      <webElementGuid>fc8d390c-97ef-41f2-87a4-0a60ccc4c733</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bus &amp; Travel'])[1]/following::span[2]</value>
+      <webElementGuid>678680dc-b0ad-4169-9116-cb2e3f11bb7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::span[1]</value>
+      <webElementGuid>6bfdfcd3-0d0c-4508-86b2-3c971a9e26ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/preceding::span[1]</value>
+      <webElementGuid>eebc7ade-97d1-469c-81b4-10e49f79fafd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Travel Tips']/parent::*</value>
+      <webElementGuid>943e73cf-295c-42aa-9b39-5215a0f6a6bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a/span</value>
+      <webElementGuid>67b932c2-418c-4438-998c-d615fb1e5618</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Travel Tips' or . = ' Travel Tips')]</value>
+      <webElementGuid>91d09a0e-8330-448d-b023-3af3762c060c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
